@@ -38,7 +38,7 @@ console.log(fn);
 let mn = prompt('Enter your midd name', 'Anatoliivna');
 console.log(mn);
 
-let age = prompt('Enter your age', '18');
+let age = +prompt('Enter your age', '18');
 console.log(age);
 
 
