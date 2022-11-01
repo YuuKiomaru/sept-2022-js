@@ -32,6 +32,20 @@ console.log(typeof '100');
 let c = true;
 console.log(typeof true);
 
+let fn = prompt('Enter your name', 'Anastasia');
+console.log(fn);
+
+let mn = prompt('Enter your midd name', 'Anatoliivna');
+console.log(mn);
+
+let age = prompt('Enter your age', '18');
+console.log(age);
+
+
+
+
+
+
 
 
 
