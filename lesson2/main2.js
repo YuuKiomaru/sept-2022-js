@@ -14,18 +14,20 @@
         book6.author = {name: 'Charles Dickens', age: 58}
 
     let users = [
-        name: 'Anna', username: 'Anna12', password: 12345,
-        name: 'Olya',  username: 'Frog123', password: 67890,
-        name: 'Nastia',  username: 'LedyNasia', password: 4605038,
-        name: 'Oleg', username: 'YoungCat', password: 486946,
-        name: 'Vasya', username: 'CoolBoy', password: 6839573,
-        name: 'Katya', username: 'Kitty35', password: 689863,
-        name: 'Vova', username: 'Vovavova88', password: 0738684,
-        name: 'Masha', username: 'MissA', password: 5629573,
-        name: 'Kolya', username: 'NikoKo23', password: 265835,
-        name: 'Kristina', username: 'Tina17', password: 7544949,
+        {name: 'Anna', username: 'Anna12', password: 12345},
+        {name: 'Olya',  username: 'Frog123', password: 67890},
+        {name: 'Nastia',  username: 'LedyNasia', password: 4605038},
+        {name: 'Oleg', username: 'YoungCat', password: 486946},
+        {name: 'Vasya', username: 'CoolBoy', password: 6839573},
+        {name: 'Katya', username: 'Kitty35', password: 689863},
+        {name: 'Vova', username: 'Vovavova88', password: 5738684},
+        {name: 'Masha', username: 'MissA', password: 5629573},
+        {name: 'Kolya', username: 'NikoKo23', password: 265835},
+        {name: 'Kristina', username: 'Tina17', password: 7544949}
     ]
-   console.log(user[3], user[6], user[9], user[12], user[15], user[18], user[21], user[24], user[27], user[30]);
+   console.log(users[0].password);
+        oktotree
+
 
 
 
