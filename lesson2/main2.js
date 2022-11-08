@@ -26,7 +26,6 @@
         {name: 'Kristina', username: 'Tina17', password: 7544949}
     ]
    console.log(users[0].password);
-        oktotree
 
 
 
